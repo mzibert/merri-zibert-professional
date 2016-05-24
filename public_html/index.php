@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-	<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 	<head>
 		<meta charset="UTF-8">
 
@@ -39,9 +39,60 @@
 	<body class = sfooter>
 		<div class="sfooter content">
 
+			<header></header>
+			<section id = "welcome">
+				<div class="container">
+					<div class="row">
+						<!---Welcome section--->
+						<div class="col-xs-6">
+							<div class "Name">
+							<h1>Merri J. Zibert</h1>
+						</div>
+					</div>
+					<div class="col-xs-6">
+						<div class="welcome and personal statement">
+							<h3>Welcome!</h3>
+							<p>
+								Red hair crookshanks bludger Marauder’s Map Prongs sunshine daisies butter mellow Ludo Bagman. Beaters gobbledegook N.E.W.T., Honeydukes eriseD inferi Wormtail. Mistletoe dungeons Parseltongue Eeylops Owl Emporium expecto patronum floo powder duel.
+							</p>
+							<h3>Personal Statement</h3>
+							<p>
+								Gillyweed portkey, keeper Godric’s Hollow telescope, splinched fire-whisky silver Leprechaun O.W.L. stroke the spine. Chalice Hungarian Horntail, catherine wheels Essence of Dittany Gringotts Harry Potter. Prophecies Yaxley green eyes Remembrall horcrux hand of the servant.
+							</p>
+						</div>
+					</div>
+			<main>
+				<div class="container.fluid"
+					  <div class="row"
+							 <!---first image section--->
+								<div class="col-xs-2 well text-center">
+									<img src="http://placekitten.com/g/200/200" alt="kitty">
+								</div>
 
-			
-		</div>
+									<!---second ven diagram section--->
+									<div class="col-xs-8 well text-center">
+										<img src="http://lorempixel.com/image_output/city-q-c-640-480-9.jpg" alt="ven diagram">
+									</div>
+
+										<!---third image 2 section--->
+										<div class="col-xs-2 well text-center">
+											<img src="http://placekitten.com/g/200/200" alt="kitty">
+										</div>
+						</div>
+				</div>
+			</main>
+
+		<footer class="p-y-4">
+			<div class="container">
+				<div class="Designed by MJZ 2016 text center">
+					<i class="fa fa-linkedin well text-center" aria-hidden="true"></i>
+					<i class="fa fa-twitter well text-center" aria-hidden="true"></i>
+				</div>
+			</div>
+
+
+		</footer>
+
 	</body>
 
 
