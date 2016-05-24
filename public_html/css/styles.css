@@ -1,0 +1,50 @@
+/************************************************
+*@author Terrance Ryan <http://terrenceryan.com/blog/index.php/venn-diagram-entirely-in-css/>
+************************************************/
+#venn div{
+	height: 360px;
+	width: 360px;
+	border-radius:180px;
+	-khtml-border-radius:180px;
+	-moz-border-radius:180px;
+	-webkit-border-radius:180px;
+	border: 1px solid #000;
+	display: table;
+	float: left;
+	opacity: .6;
+}
+#venn div:nth-child(1){
+	background-color: #FF0000;
+	color: #FFF;
+	padding-right: 60px;
+}
+
+#venn div:nth-child(2){
+	background-color: #0000FF;
+	color: #FFF;
+	margin-left: -60px;
+	padding-left: 60px;
+}
+#venn #overlap{
+	border: 0;
+	height: 30px;
+	width: 30px;
+	left: -350px;
+	top: 150px;
+	color: #ccc;
+	position: relative;
+	text-align: center;
+	z-index: 10;
+	opacity: 1;
+}
+/**************************
+To create a circle:
+
+width must equal height
+border radius must equal 50% of width.
+									  To overlap circles:
+
+									  Circle 2 must have negative x left margin
+(Or Circle 1 must have negative x right margin)
+Each circle must have x padding-left or x padding-right to ensure its text doesn’t spill over borders
+****************************/

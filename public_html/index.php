@@ -40,7 +40,7 @@
 		<div class="sfooter content">
 
 			<header></header>
-			<section id = "welcome">
+			<section id = "welcome" class ="p-y-4">
 				<div class="container">
 					<div class="row">
 						<!---Welcome section--->
@@ -62,7 +62,8 @@
 						</div>
 					</div>
 			<main>
-				<div class="container.fluid"
+				<section id="image and diagram section" class="p-y-4">
+					<div class="container.fluid"
 					  <div class="row"
 							 <!---first image section--->
 								<div class="col-xs-2 well text-center">
@@ -71,6 +72,11 @@
 
 									<!---second ven diagram section--->
 									<div class="col-xs-8 well text-center">
+										<div id="ven diagram">
+											<div id="ven"><p>Work</p></div>
+											<div id="ven2"><p>Play</p></div>
+											<div id="overlap"><p>Just Me</p></div>
+										</div>
 										<img src="http://lorempixel.com/image_output/city-q-c-640-480-9.jpg" alt="ven diagram">
 									</div>
 
@@ -79,7 +85,8 @@
 											<img src="http://placekitten.com/g/200/200" alt="kitty">
 										</div>
 						</div>
-				</div>
+					</div>
+				</section>
 			</main>
 
 		<footer class="p-y-4">
