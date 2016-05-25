@@ -1,50 +1,56 @@
 /************************************************
-*@author Terrance Ryan <http://terrenceryan.com/blog/index.php/venn-diagram-entirely-in-css/>
+*@author Rochelle Lewis <rlewis@cnm.edu>
 ************************************************/
-#venn div{
-	height: 360px;
-	width: 360px;
-	border-radius:180px;
-	-khtml-border-radius:180px;
-	-moz-border-radius:180px;
-	-webkit-border-radius:180px;
-	border: 1px solid #000;
-	display: table;
-	float: left;
-	opacity: .6;
+#venn{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
 }
-#venn div:nth-child(1){
-	background-color: #FF0000;
-	color: #FFF;
-	padding-right: 60px;
+
+#venn div{
+	width: 50vw;
+	height: 50vw;
+	border-radius: 50%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#venn div:hover{
+	border: 5rem solid rgba(0,0,0,0.1);
+	box-shadow: 0 0 0 2rem rgba(0,0,0,0.15);
+	-webkit-box-shadow: 0 0 0 2rem rgba(0,0,0,0.15);
+	-webkit-transition: all 250ms ease-in-out;
+	-moz-transition: all 250ms ease-in-out;
+	-ms-transition: all 250ms ease-in-out;
+	-o-transition: all 250ms ease-in-out;
+	transition: all 500ms ease-in-out;
+}
+
+#venn div:first-child{
+	background-color: rgba(255,0,0,0.5);
 }
 
 #venn div:nth-child(2){
-	background-color: #0000FF;
-	color: #FFF;
-	margin-left: -60px;
-	padding-left: 60px;
+	background-color: rgba(0,255,255,0.5);
+	margin: -10vw 0 0 0;
 }
-#venn #overlap{
-	border: 0;
-	height: 30px;
-	width: 30px;
-	left: -350px;
-	top: 150px;
-	color: #ccc;
-	position: relative;
-	text-align: center;
-	z-index: 10;
-	opacity: 1;
+
+/*venn styles for s, m, lg breakpoints*/
+@media only screen and(min-width: 768px) {
+
+	#venn{
+		flex-direction: row;
+	}
+
+	#venn div{
+		width: 25vw;
+		height: 25vw;
+	}
+
+	#venn div:nth-child(2){
+		margin: 0 0 0 -5vw;
+	}
 }
-/**************************
-To create a circle:
 
-width must equal height
-border radius must equal 50% of width.
-									  To overlap circles:
-
-									  Circle 2 must have negative x left margin
-(Or Circle 1 must have negative x right margin)
-Each circle must have x padding-left or x padding-right to ensure its text doesn’t spill over borders
-****************************/

@@ -70,14 +70,17 @@
 									<img src="http://placekitten.com/g/200/200" alt="kitty">
 								</div>
 
-									<!---second ven diagram section--->
+									<!---second venn diagram section--->
 									<div class="col-xs-8 well text-center">
-										<div id="ven diagram">
-											<div id="ven"><p>Work</p></div>
-											<div id="ven2"><p>Play</p></div>
-											<div id="overlap"><p>Just Me</p></div>
-										</div>
-										<img src="http://lorempixel.com/image_output/city-q-c-640-480-9.jpg" alt="ven diagram">
+										<!---begin venn diagram--->
+										<div id="venn">
+											<div>
+												<p>Merri at Work</p>
+											</div>
+											<div>
+												<p>Merri at Play</p>
+											</div>
+										</div><!---end of venn diagram--->
 									</div>
 
 										<!---third image 2 section--->
@@ -91,7 +94,7 @@
 
 		<footer class="p-y-4">
 			<div class="container">
-				<div class="Designed by MJZ 2016 text center">
+				<div class="Designed by MJZ 2016 text-center">
 					<i class="fa fa-linkedin well text-center" aria-hidden="true"></i>
 					<i class="fa fa-twitter well text-center" aria-hidden="true"></i>
 				</div>
@@ -103,16 +106,5 @@
 	</body>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 	</head>
+</html>
