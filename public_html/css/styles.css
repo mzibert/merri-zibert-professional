@@ -1,5 +1,9 @@
+body {
+	background-image: url("img_background.png");
+	background-repeat: cover;
+	background-position: fixed;
 
-
+}
 /************************************************
 *@author Rochelle Lewis <rlewis@cnm.edu>
 ************************************************/
