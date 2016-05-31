@@ -66,12 +66,12 @@
 					<div class="container.fluid"
 					  <div class="row"
 							 <!---first image section--->
-								<div class="col-xs-2 well text-center">
+								<div class="col-xs-2 text-center">
 									<img src="http://placekitten.com/g/200/200" alt="kitty">
 								</div>
 
 									<!---second venn diagram section--->
-									<div class="col-xs-8 well text-center">
+									<div class="col-xs-8">
 										<!---begin venn diagram--->
 										<div id="venn">
 											<div>
@@ -84,7 +84,7 @@
 									</div>
 
 										<!---third image 2 section--->
-										<div class="col-xs-2 well text-center">
+										<div class="col-xs-2 text-center">
 											<img src="http://placekitten.com/g/200/200" alt="kitty">
 										</div>
 						</div>
