@@ -42,9 +42,9 @@
 			<!-- welcome section -->
 			<section id="welcome" class="p-y-4">
 				<div class="container">
-					<div class="jumbotron">
+					<div class="jumbotron text-center">
 						<h1>Welcome!</h1>
-						<p>Byline Text</p>
+						<p>blah, blah, blah...</p>
 					</div>
 				</div>
 			</section>
