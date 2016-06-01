@@ -39,8 +39,7 @@
 	<body class = sfooter>
 		<div class="sfooter content">
 
-
-			<header></header>
+			<h1></h1>
 			<section id = "welcome" class ="p-y-4">
 				<div class="container">
 					<div class="row">
