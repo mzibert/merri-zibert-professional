@@ -38,31 +38,56 @@
 		</head>
 	<body class = sfooter>
 		<div class="sfooter content">
-
 			<h1></h1>
-			<section id = "welcome" class ="p-y-4">
+			<div class="jumbotron">
 				<div class="container">
-					<div class="row">
-						<!---Welcome section--->
-						<div class="col-xs-6">
-							<div class "Name">
-							<h1>Merri J. Zibert</h1>
+					<section id = "welcome" class ="p-y-4">
+						<div class="container">
+							<div class="row">
+								<!---Welcome section--->
+								<div class="col-xs-6">
+									<div class "Name">
+									<h1>Merri J. Zibert</h1>
+								</div>
+							</div>
+							<div class="col-xs-6">
+								<div class="welcome and personal statement">
+									<h3>Welcome!</h3>
+									<p>
+										Red hair crookshanks bludger Marauder’s Map Prongs sunshine daisies butter mellow Ludo Bagman. Beaters gobbledegook N.E.W.T., Honeydukes eriseD inferi Wormtail. Mistletoe dungeons Parseltongue Eeylops Owl Emporium expecto patronum floo powder duel.
+									</p>
+								</div>
+							</div>
 						</div>
-					</div>
-					<div class="col-xs-6">
-						<div class="welcome and personal statement">
-							<h3>Welcome!</h3>
-							<p>
-								Red hair crookshanks bludger Marauder’s Map Prongs sunshine daisies butter mellow Ludo Bagman. Beaters gobbledegook N.E.W.T., Honeydukes eriseD inferi Wormtail. Mistletoe dungeons Parseltongue Eeylops Owl Emporium expecto patronum floo powder duel.
-							</p>
-							<h3>Personal Statement</h3>
-							<p>
-								Gillyweed portkey, keeper Godric’s Hollow telescope, splinched fire-whisky silver Leprechaun O.W.L. stroke the spine. Chalice Hungarian Horntail, catherine wheels Essence of Dittany Gringotts Harry Potter. Prophecies Yaxley green eyes Remembrall horcrux hand of the servant.
-							</p>
-						</div>
-					</div>
+				</div>
+			</div>
+<!--			<section id = "welcome" class ="p-y-4">-->
+<!--				<div class="container">-->
+<!--					<div class="row">-->
+<!--						<!---Welcome section--->-->
+<!--						<div class="col-xs-6">-->
+<!--							<div class "Name">-->
+<!--							<h1>Merri J. Zibert</h1>-->
+<!--						</div>-->
+<!--					</div>-->
+<!--					<div class="col-xs-6">-->
+<!--						<div class="welcome and personal statement">-->
+<!--							<h3>Welcome!</h3>-->
+<!--							<p>-->
+<!--								Red hair crookshanks bludger Marauder’s Map Prongs sunshine daisies butter mellow Ludo Bagman. Beaters gobbledegook N.E.W.T., Honeydukes eriseD inferi Wormtail. Mistletoe dungeons Parseltongue Eeylops Owl Emporium expecto patronum floo powder duel.-->
+<!--							</p>-->
+<!--							<h3>Personal Statement</h3>-->
+<!--							<p>-->
+<!--								Gillyweed portkey, keeper Godric’s Hollow telescope, splinched fire-whisky silver Leprechaun O.W.L. stroke the spine. Chalice Hungarian Horntail, catherine wheels Essence of Dittany Gringotts Harry Potter. Prophecies Yaxley green eyes Remembrall horcrux hand of the servant.-->
+<!--							</p>-->
+<!--						</div>-->
+<!--					</div>-->
 			<main>
 				<section id="image and diagram section" class="p-y-4">
+					<h3>Personal Statement</h3>
+					<p>
+						Gillyweed portkey, keeper Godric’s Hollow telescope, splinched fire-whisky silver Leprechaun O.W.L. stroke the spine. Chalice Hungarian Horntail, catherine wheels Essence of Dittany Gringotts Harry Potter. Prophecies Yaxley green eyes Remembrall horcrux hand of the servant.
+					</p>
 					<div class="container.fluid"
 					  <div class="row"
 							 <!---first image section--->
