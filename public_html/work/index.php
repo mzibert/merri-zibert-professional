@@ -30,9 +30,9 @@
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse" id="main-nav">
 							<ul class="nav navbar-nav navbar-right nav-pills">
-								<li><a href="#">Home</a></li>
-								<li><a href="#">Work</a></li>
-								<li><a href="#">Play</a></li>
+								<li><a href="index.php">Home</a></li>
+								<li><a href="../work/index.php">Work</a></li>
+								<li><a href="../play/index.php">Play</a></li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
 					</div><!-- /.container-fluid -->
@@ -43,7 +43,7 @@
 			<section id="welcome" class="p-y-4">
 				<div class="container">
 					<div class="jumbotron text-center">
-						<h1>Welcome!</h1>
+						<h1>Merri at Work</h1>
 						<p>blah, blah, blah...</p>
 					</div>
 				</div>
