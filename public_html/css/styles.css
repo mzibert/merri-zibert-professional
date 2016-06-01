@@ -2,6 +2,10 @@
 *@author Rochelle Lewis <rlewis@cnm.edu>
 ************************************************/
 
+.jumbotron-bg {
+	background: url(../images/background.jpg);
+}
+
 #venn{
 	display: flex;
 	align-items: center;

@@ -67,8 +67,8 @@
 				<div class="container">
 
 					<!--jumborton-->
-					<div class="jumbotron text-center">
-						<img src="images/background.jpg" alt "life's a beach">
+					<div class="jumbotron jumbotron-bg text-center">
+<!--						<img src="images/background.jpg" alt "life's a beach" style="width:100%">-->
 						<h1>Welcome!</h1>
 						<p>blah, blah, blah...</p>
 					</div>
