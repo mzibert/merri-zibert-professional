@@ -68,6 +68,7 @@
 
 					<!--jumborton-->
 					<div class="jumbotron text-center">
+						<img src="images/background.jpg" alt "life's a beach">
 						<h1>Welcome!</h1>
 						<p>blah, blah, blah...</p>
 					</div>
