@@ -14,8 +14,8 @@
 
 			<!-- header -->
 			<header class="p-y-4">
-				<div class="container">
-					<nav class="navbar navbar-default">
+				<nav class="navbar navbar-default">
+					<div class="container">
 						<!-- Brand and toggle get grouped for better mobile display -->
 						<div class="navbar-header">
 							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-nav" aria-expanded="false">
@@ -24,20 +24,19 @@
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<a class="navbar-brand" href="#">My Site</a>
+							<a class="navbar-brand" href="#">Merri Zibert</a>
 						</div>
 
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse" id="main-nav">
-							<ul class="nav navbar-nav navbar-right">
-								<li><a href="#">Link1</a></li>
-								<li><a href="#">Link2</a></li>
-								<li><a href="#">Link3</a></li>
-								<li><a href="#">Link4</a></li>
+							<ul class="nav navbar-nav navbar-right nav-pills">
+								<li><a href="#">Home</a></li>
+								<li><a href="#">Work</a></li>
+								<li><a href="#">Play</a></li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
-					</nav>
-				</div>
+					</div><!-- /.container-fluid -->
+				</nav>
 			</header>
 
 			<!-- welcome section -->
