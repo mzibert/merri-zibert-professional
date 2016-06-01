@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html lang="en" xmlns="http://www.w3.org/1999/html">
+<html>
 	<head>
 		<meta charset="UTF-8">
 
 		<!-- sets IE rendering to IE-EDGE -->
-		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
 		<!-- sets viewport width to device width, scaling 1:1 -->
-		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
@@ -29,107 +29,85 @@
 		<link rel="stylesheet" href="css/styles.css" type="text/css">
 
 		<!-- jQuery -->
-		<script src="https://code.jquery.com/jquery-2.2.3.min.js"   integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo="   crossorigin="anonymous"></script>
+		<script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
 
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
 		<title>Merri J. Zibert Professional</title>
-		</head>
-	<body class = sfooter>
-		<div class="sfooter content">
-			<h1></h1>
-			<div class="jumbotron">
+	</head>
+	<body class="sfooter">
+		<div class="sfooter-content">
+			<header>
+				<nav class="navbar navbar-default">
+					<div class="container">
+						<!-- Brand and toggle get grouped for better mobile display -->
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-nav" aria-expanded="false">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+							<a class="navbar-brand" href="#">Merri Zibert</a>
+						</div>
+
+						<!-- Collect the nav links, forms, and other content for toggling -->
+						<div class="collapse navbar-collapse" id="main-nav">
+							<ul class="nav navbar-nav navbar-right nav-pills">
+								<li><a href="#">Link</a></li>
+								<li><a href="#">Link</a></li>
+								<li><a href="#">Link</a></li>
+								<li><a href="#">Link</a></li>
+							</ul>
+						</div><!-- /.navbar-collapse -->
+					</div><!-- /.container-fluid -->
+				</nav>
+			</header>
+			<main>
 				<div class="container">
-					<section id = "welcome" class ="p-y-4">
-						<div class="container">
-							<div class="row">
-								<!---Welcome section--->
-								<div class="col-xs-6">
-									<div class "Name">
-									<h1>Merri J. Zibert</h1>
+
+					<!--jumborton-->
+					<div class="jumbotron">
+						<h1>Welcome!</h1>
+						<p>blah, blah, blah...</p>
+					</div>
+
+					<!--work/play-->
+					<div class="row">
+						<div class="col-md-3 text-center">
+							<img src="http://placekitten.com/200/200" alt="image" class="img-responsive img-thumbnail img-circle">
+						</div>
+
+						<div class="col-md-6">
+							<div id="venn">
+								<div>
+									<p>at play</p>
 								</div>
-							</div>
-							<div class="col-xs-6">
-								<div class="welcome and personal statement">
-									<h3>Welcome!</h3>
-									<p>
-										Red hair crookshanks bludger Marauder’s Map Prongs sunshine daisies butter mellow Ludo Bagman. Beaters gobbledegook N.E.W.T., Honeydukes eriseD inferi Wormtail. Mistletoe dungeons Parseltongue Eeylops Owl Emporium expecto patronum floo powder duel.
-									</p>
+								<div>
+									<p>at work</p>
 								</div>
 							</div>
 						</div>
-				</div>
-			</div>
-<!--			<section id = "welcome" class ="p-y-4">-->
-<!--				<div class="container">-->
-<!--					<div class="row">-->
-<!--						<!---Welcome section--->-->
-<!--						<div class="col-xs-6">-->
-<!--							<div class "Name">-->
-<!--							<h1>Merri J. Zibert</h1>-->
-<!--						</div>-->
-<!--					</div>-->
-<!--					<div class="col-xs-6">-->
-<!--						<div class="welcome and personal statement">-->
-<!--							<h3>Welcome!</h3>-->
-<!--							<p>-->
-<!--								Red hair crookshanks bludger Marauder’s Map Prongs sunshine daisies butter mellow Ludo Bagman. Beaters gobbledegook N.E.W.T., Honeydukes eriseD inferi Wormtail. Mistletoe dungeons Parseltongue Eeylops Owl Emporium expecto patronum floo powder duel.-->
-<!--							</p>-->
-<!--							<h3>Personal Statement</h3>-->
-<!--							<p>-->
-<!--								Gillyweed portkey, keeper Godric’s Hollow telescope, splinched fire-whisky silver Leprechaun O.W.L. stroke the spine. Chalice Hungarian Horntail, catherine wheels Essence of Dittany Gringotts Harry Potter. Prophecies Yaxley green eyes Remembrall horcrux hand of the servant.-->
-<!--							</p>-->
-<!--						</div>-->
-<!--					</div>-->
-			<main>
-				<section id="image and diagram section" class="p-y-4">
-					<h3>Personal Statement</h3>
-					<p>
-						Gillyweed portkey, keeper Godric’s Hollow telescope, splinched fire-whisky silver Leprechaun O.W.L. stroke the spine. Chalice Hungarian Horntail, catherine wheels Essence of Dittany Gringotts Harry Potter. Prophecies Yaxley green eyes Remembrall horcrux hand of the servant.
-					</p>
-					<div class="container.fluid"
-					  <div class="row"
-							 <!---first image section--->
-								<div class="col-xs-2 text-center">
-									<img src="http://placekitten.com/g/200/200" alt="kitty">
-								</div>
 
-									<!---second venn diagram section--->
-									<div class="col-xs-8">
-										<!---begin venn diagram--->
-										<div id="venn">
-											<div>
-												<p>Merri at Work</p>
-											</div>
-											<div>
-												<p>Merri at Play</p>
-											</div>
-										</div><!---end of venn diagram--->
-									</div>
-
-										<!---third image 2 section--->
-										<div class="col-xs-2 text-center">
-											<img src="http://placekitten.com/g/200/200" alt="kitty">
-										</div>
+						<div class="col-md-3 text-center">
+							<img src="http://placekitten.com/200/200" alt="image" class="img-responsive img-thumbnail img-circle">
 						</div>
 					</div>
-				</section>
-			</main>
 
-		<footer class="p-y-4">
-			<div class="container">
-				<div class="Designed by MJZ 2016 text-center">
-					<i class="fa fa-linkedin well text-center" aria-hidden="true"></i>
-					<i class="fa fa-twitter well text-center" aria-hidden="true"></i>
+				</div>
+			</main>
+		</div>
+		<footer>
+			<div class="container text-center">
+				<div class="row">
+					<a href="#"><i class="fa fa-linkedin well text-center" aria-hidden="true"></i></a>
+					<a href="#"><i class="fa fa-twitter well text-center" aria-hidden="true"></i></a>
+				</div>
+				<div class="row copyright">
+					Designed by MJZ 2016
 				</div>
 			</div>
-
-
 		</footer>
-
 	</body>
-
-
-	</head>
 </html>
