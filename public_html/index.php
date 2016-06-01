@@ -55,10 +55,9 @@
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse" id="main-nav">
 							<ul class="nav navbar-nav navbar-right nav-pills">
-								<li><a href="#">Link</a></li>
-								<li><a href="#">Link</a></li>
-								<li><a href="#">Link</a></li>
-								<li><a href="#">Link</a></li>
+								<li><a href="#">Home</a></li>
+								<li><a href="#">Work</a></li>
+								<li><a href="#">Play</a></li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
 					</div><!-- /.container-fluid -->
@@ -68,7 +67,7 @@
 				<div class="container">
 
 					<!--jumborton-->
-					<div class="jumbotron">
+					<div class="jumbotron text-center">
 						<h1>Welcome!</h1>
 						<p>blah, blah, blah...</p>
 					</div>
@@ -82,10 +81,10 @@
 						<div class="col-md-6">
 							<div id="venn">
 								<div>
-									<p>at play</p>
+									<p>Merri at play</p>
 								</div>
 								<div>
-									<p>at work</p>
+									<p>Merri at work</p>
 								</div>
 							</div>
 						</div>
@@ -101,7 +100,7 @@
 		<footer>
 			<div class="container text-center">
 				<div class="row">
-					<a href="#"><i class="fa fa-linkedin well text-center" aria-hidden="true"></i></a>
+					<a href="https://www.linkedin.com/in/merri-zibert-1670169"><i class="fa fa-linkedin well text-center" aria-hidden="true"></i></a>
 					<a href="#"><i class="fa fa-twitter well text-center" aria-hidden="true"></i></a>
 				</div>
 				<div class="row copyright">
