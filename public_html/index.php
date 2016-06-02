@@ -67,11 +67,12 @@
 				<div class="container">
 
 					<!--jumbotron-->
-					<div class="jumbotron jumbotron-bg text-center">
+					<section id="welcome" class="p-y-4">
+						<div class="jumbotron jumbotron-bg text-center">
 						<h1>Welcome!</h1>
 						<p>blah, blah, blah...</p>
 					</div>
-
+						
 					<!--work/play-->
 					<div class="row">
 						<div class="col-md-3 text-center">

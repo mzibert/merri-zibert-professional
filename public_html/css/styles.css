@@ -1,6 +1,19 @@
 /************************************************
 *@author Rochelle Lewis <rlewis@cnm.edu>
 ************************************************/
+body {
+	padding-bottom: 40px;
+	color: #5a5a5a
+;
+	font-family:'SourceSansPro',sans-serif;
+	font-style:normal;
+	font-weight:400;
+	background-image:url(../images/sand.jpg);
+	background-size:cover;
+	background-attachment:fixed;
+
+
+}
 
 .jumbotron-bg {
 	background: url(../images/background.jpg)fixed;
