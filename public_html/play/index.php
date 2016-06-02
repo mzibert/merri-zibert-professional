@@ -68,7 +68,7 @@
 					<div class="row">
 						<div class="col-md-3">
 							<div class="thumbnail">
-								<img src="http://placekitten.com/g/100/100" alt="" class="img-responsive img-thumbnail img-circle">
+								<img src="../images/family%20images.jpg" alt="" class="img-responsive img-thumbnail img-circle">
 								<div class="caption">
 									<h3>Title 1</h3>
 									<p> Immediately regret falling into bathtub unwrap toilet paper yet spread kitty litter all over house, and touch water with paw then recoil in horror leave hair everywhere lick butt and make a weird face stretch</p>
@@ -77,7 +77,7 @@
 						</div><!--/.col-md-3-->
 						<div class="col-md-3">
 							<div class="thumbnail">
-								<img src="http://placekitten.com/g/100/100" alt="" class="img-responsive img-thumbnail img-circle">
+								<img src="../images/weight-lifting-icon.png" alt="" class="img-responsive img-thumbnail img-circle">
 								<div class="caption">
 									<h3>Title 2</h3>
 									<p> Immediately regret falling into bathtub unwrap toilet paper yet spread kitty litter all over house, and touch water with paw then recoil in horror leave hair everywhere lick butt and make a weird face stretch</p>
@@ -86,7 +86,7 @@
 						</div><!--/.col-md-3-->
 						<div class="col-md-3">
 							<div class="thumbnail">
-								<img src="http://placekitten.com/g/100/100" alt="" class="img-responsive img-thumbnail img-circle">
+								<img src="../images/images.jpg" alt="" class="img-responsive img-thumbnail img-circle">
 								<div class="caption">
 									<h3>Title 3</h3>
 									<p> Immediately regret falling into bathtub unwrap toilet paper yet spread kitty litter all over house, and touch water with paw then recoil in horror leave hair everywhere lick butt and make a weird face stretch</p>
@@ -95,7 +95,7 @@
 						</div><!--/.col-md-3-->
 						<div class="col-md-3">
 							<div class="thumbnail">
-								<img src="http://placekitten.com/g/100/100" alt="" class="img-responsive img-thumbnail img-circle">
+								<img src="../images/surfing_icon.jpg" alt="" class="img-responsive img-thumbnail img-circle">
 								<div class="caption">
 									<h3>Title 4</h3>
 									<p> Immediately regret falling into bathtub unwrap toilet paper yet spread kitty litter all over house, and touch water with paw then recoil in horror leave hair everywhere lick butt and make a weird face stretch</p>
