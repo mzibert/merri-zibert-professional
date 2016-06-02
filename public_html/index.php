@@ -68,7 +68,6 @@
 
 					<!--jumborton-->
 					<div class="jumbotron jumbotron-bg text-center">
-<!--						<img src="images/background.jpg" alt "life's a beach" style="width:100%">-->
 						<h1>Welcome!</h1>
 						<p>blah, blah, blah...</p>
 					</div>
@@ -82,10 +81,10 @@
 						<div class="col-md-6">
 							<div id="venn">
 								<div>
-									<p>Merri at play</p>
+									<a href="play/index.php">Merri at Play</a>
 								</div>
 								<div>
-									<p>Merri at work</p>
+									<a href="work/index.php">Merri at Work</a>
 								</div>
 							</div>
 						</div>

@@ -41,11 +41,10 @@
 
 			<!-- welcome section -->
 			<section id="welcome" class="p-y-4">
-				<div class="container">
-					<div class="jumbotron jumbotron-bg text-center">
-						<h1>Merri at Play</h1>
-						<p>blah, blah, blah...</p>
-					</div>
+				<div class="jumbotron jumbotron-bg text-center">
+					<h1>Merri at Play</h1>
+					<p>blah, blah, blah...</p>
+				</div>
 				</div>
 			</section>
 
