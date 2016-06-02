@@ -19,6 +19,9 @@ body {
 	background: url(../images/background.jpg)fixed;
 }
 
+.thumbnail {
+	background-color: transparent;
+}
 #venn{
 	display: flex;
 	align-items: center;
