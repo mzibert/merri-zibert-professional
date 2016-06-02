@@ -72,7 +72,7 @@
 						<h1>Welcome!</h1>
 						<p>blah, blah, blah...</p>
 					</div>
-						
+
 					<!--work/play-->
 					<div class="row">
 						<div class="col-md-3 text-center">
