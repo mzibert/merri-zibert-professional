@@ -11,6 +11,7 @@
 	align-items: center;
 	flex-direction: column;
 	justify-content: center;
+
 }
 
 #venn div{
@@ -20,10 +21,12 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
+
 }
 
 #venn div:first-child{
 	background-color: royalblue;
+	color: #ffffff;
 }
 
 #venn div:nth-child(2){
@@ -90,6 +93,6 @@ body { width: 100%;}
 }
 
 footer {
-	background-color: pink;
-	padding: 3rem 0;
+	background-color: lightblue;
+	padding: 1rem 0;
 }

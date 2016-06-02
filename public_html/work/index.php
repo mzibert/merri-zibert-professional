@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<link data-require="bootstrap-css@3.3.6" data-semver="3.3.6" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.css" />
-		<link rel="stylesheet" href="style.css" />
+		<link rel="stylesheet" href="../css/styles.css" type="text/css">
 		<script data-require="jquery@*" data-semver="2.2.0" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 		<script data-require="bootstrap.js@*" data-semver="3.3.6" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 		<script src="script.js"></script>
@@ -41,8 +41,7 @@
 
 			<!-- welcome section -->
 			<section id="welcome" class="p-y-4">
-				<div class="container">
-					<div class="jumbotron jumbotron-bg text-center">
+				<div class="jumbotron jumbotron-bg text-center">
 						<h1>Merri at Work</h1>
 						<p>blah, blah, blah...</p>
 					</div>

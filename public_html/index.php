@@ -66,7 +66,7 @@
 			<main>
 				<div class="container">
 
-					<!--jumborton-->
+					<!--jumbotron-->
 					<div class="jumbotron jumbotron-bg text-center">
 						<h1>Welcome!</h1>
 						<p>blah, blah, blah...</p>
