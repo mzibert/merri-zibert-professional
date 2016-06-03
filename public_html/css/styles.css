@@ -2,7 +2,6 @@
 *@author Rochelle Lewis <rlewis@cnm.edu>
 ************************************************/
 body {
-	padding-bottom: 40px;
 	color: #5a5a5a
 ;
 	font-family:'SourceSansPro',sans-serif;
@@ -19,9 +18,6 @@ body {
 	background: url(../images/background.jpg)fixed;
 }
 
-.thumbnail {
-	background-color: transparent;
-}
 #venn{
 	display: flex;
 	align-items: center;
@@ -86,6 +82,12 @@ body {
 		-ms-transition: all 500ms ease-in-out;
 		-o-transition: all 500ms ease-in-out;
 		transition: all 500ms ease-in-out;
+	}
+	.thumbnail {
+		background-color: transparent;
+		color: #ffffff;
+		font-weight: bold;
+		font-size: medium;
 	}
 }
 
