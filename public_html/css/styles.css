@@ -89,6 +89,9 @@ body {
 		font-weight: bold;
 		font-size: medium;
 	}
+	.thumbnail .caption {
+		color: #ffffff;
+	}
 }
 
 /***
