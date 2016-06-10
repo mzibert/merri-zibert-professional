@@ -70,8 +70,8 @@
 					<!--jumbotron-->
 					<section id="welcome" class="p-y-4">
 						<div class="jumbotron jumbotron-bg text-center">
-						<h1>Welcome!</h1>
-						<p>blah, blah, blah...</p>
+						<h1>Let me help you...</h1>
+						<p>Bring your vision to life!</p>
 					</div>
 
 					<!--work/play-->
