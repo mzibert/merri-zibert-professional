@@ -58,6 +58,7 @@
 								<li><a href="index.php">Home</a></li>
 								<li><a href="work/index.php">Work</a></li>
 								<li><a href="play/index.php">Play</a></li>
+								<li><a href="contact/index.php">Contact Me</a></li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
 					</div><!-- /.container-fluid -->
