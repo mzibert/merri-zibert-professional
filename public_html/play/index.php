@@ -42,8 +42,8 @@
 			<!-- welcome section -->
 			<section id="welcome" class="p-y-4">
 				<div class="jumbotron jumbotron-bg text-center">
-					<h1>Merri at Play</h1>
-					<p>blah, blah, blah...</p>
+					<h1>Who I am,</h1>
+					<p>my life at a glance.</p>
 				</div>
 				</div>
 			</section>
@@ -71,7 +71,10 @@
 								<img src="../images/family%20images.jpg" alt="" class="img-responsive img-thumbnail img-circle">
 								<div class="caption">
 									<h3>Title 1</h3>
-									<p> Immediately regret falling into bathtub unwrap toilet paper yet spread kitty litter all over house, and touch water with paw then recoil in horror leave hair everywhere lick butt and make a weird face stretch</p>
+									<ul> My family is my everything</ul>
+									<li>Happily Married</li>
+									<li>2 daughters</li>
+									<li>1 dog</li>
 								</div>
 							</div><!--/.thumbnail-->
 						</div><!--/.col-md-3-->
