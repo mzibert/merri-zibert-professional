@@ -63,8 +63,8 @@
 			<!-- welcome section -->
 			<section id="welcome" class="p-y-4">
 				<div class="jumbotron jumbotron-bg text-center">
-						<h1>Projects I have worked on...</h1>
-						<p>blah, blah, blah...</p>
+						<h1>Let me help you</h1>
+						<p>bring your vision to life!</p>
 					</div>
 				</div>
 			</section>
