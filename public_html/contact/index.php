@@ -72,7 +72,7 @@
 									<div class="row">
 										<div class="col-md-6 col-sm-3 col-md-7 ">
 
-											<form id="contact-form" action="php/form-mailer.php" method="post">
+											<form id="contact-form" action="../php/form-mailer.php" method="post">
 												<div class="form-group">
 													<label for="name">Name <span class="text-danger">*</span></label>
 													<div class="input-group">
