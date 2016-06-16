@@ -23,3 +23,12 @@ I found the following issues with your HTML:
 - Closing &lt;/html&gt; tag is missing
 - Your closing &lt;/body&gt; tag is on line 9. The &lt;body&gt; should contain ALL the content that the user will see, and should be closed at the bottom of the document, immediately before the closing &lt;/html&gt; tag.
 - No need to include line numbers inside your &lt;ol&gt; (in the interaction flow). Those line numbers are created for you when you use in Ordered List.
+
+mziebert
+## Milestone 3/Final Feedback
+You've got a good start here. Good work getting the ASO deployment up, .htaccess redirect working, and your contact form working on bootcamp-coders.(I know ASO is crapping out on you here). Your directory structure is great, and your HTML and CSS is looking clean. Continue to work on this project and practice your front-end skills. Feel free to Slack me if you have any questions. Your Milestone 3/Final PWP passes at [Tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).
+
+### Edits &amp; Suggestions
+- Your content pages are not responsive on mobile. (work, play, contact). Your home page is fine though. Continue to work on your front-end/HTML and CSS skills.
+- Consider trying PHP templating and Root Path down the line.
+- Contact page is missing a .container, and closing `</body>` and `</head>` tags.
