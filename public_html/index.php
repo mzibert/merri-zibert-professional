@@ -70,8 +70,8 @@
 					<!--jumbotron-->
 					<section id="welcome" class="p-y-4">
 						<div class="jumbotron jumbotron-bg text-center">
-						<h1></h1>WHO I AM...
-						<p>My life at a glance.</p>
+						<h1>Who I am,</h1>
+						<p>my life at a glance...</p>
 					</div>
 
 					<!--work/play-->

@@ -14,8 +14,6 @@
 		<script data-require="bootstrap.js@*" data-semver="3.3.6"
 				  src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 
-		<script src="script.js"></script>
-
 		<!-- jQuery -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 
@@ -28,7 +26,7 @@
 				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
 
 		<!-- Your JavaScript Form Validator -->
-		<script src="js/form-validate.js"></script>
+		<script src="../js/form-validate.js"></script>
 
 		<!-- Google reCAPTCHA -->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
